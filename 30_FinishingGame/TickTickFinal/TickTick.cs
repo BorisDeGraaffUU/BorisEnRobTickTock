@@ -1,7 +1,7 @@
 using Microsoft.Xna.Framework;
 using System;
 
-class TickTick : GameEnvironment
+class TickTick : GameEnvironment // yoyo robbie test
 {
     [STAThread]
     static void Main()
